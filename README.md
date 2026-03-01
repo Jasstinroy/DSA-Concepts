@@ -1,5 +1,3 @@
----
-
 # DSA Practice
 
 Solutions to Data Structures & Algorithms problems for interview preparation.
@@ -22,6 +20,6 @@ Solutions to Data Structures & Algorithms problems for interview preparation.
 
 Improve problem-solving skills and write optimized code.
 
----
+
 
 
