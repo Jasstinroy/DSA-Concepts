@@ -14,7 +14,7 @@ Solutions to Data Structures & Algorithms problems for interview preparation.
 
 ## Languages
 
- Java
+ Java , C
 
 ## Goal
 
