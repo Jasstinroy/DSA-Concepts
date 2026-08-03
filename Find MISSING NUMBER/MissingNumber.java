@@ -1,7 +1,7 @@
 public class MissingNumber {
     public static int findMissingNumber(int[] nums) {
         int n = nums.length + 1;
-        int sum = n * (n + 1) / 2; // Sum of first n natural numbers
+        int sum = n * (n + 1) / 2; 
         for (int num : nums) {
             sum -= num;
         }
